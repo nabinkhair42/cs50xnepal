@@ -1,2 +1,2 @@
 #CS50xNepal Website
-#Developed Bu Nabin Khair# cs50xnepal
+#Developed By Nabin Khair# cs50xnepal

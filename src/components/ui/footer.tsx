@@ -66,7 +66,6 @@ const Footer = () => {
               src={FooterLogo}
               className="w-40 rounded"
               alt="logo"
-             
             />
             <p className="max-w-xs mt-4 text-sm text-gray-600 text-justify">
               CS50x Nepal; like: CS50x Iran, CS50x Iraq, CS50x Tehran, etc., is

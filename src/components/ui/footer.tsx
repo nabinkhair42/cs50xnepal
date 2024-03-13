@@ -64,10 +64,9 @@ const Footer = () => {
           <div>
             <Image
               src={FooterLogo}
-              className="w-75 rounded"
+              className="w-40 rounded"
               alt="logo"
-              width={150}
-              height={50}
+             
             />
             <p className="max-w-xs mt-4 text-sm text-gray-600 text-justify">
               CS50x Nepal; like: CS50x Iran, CS50x Iraq, CS50x Tehran, etc., is
